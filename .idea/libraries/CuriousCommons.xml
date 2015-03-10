@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CuriousCommons">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../CuriousCommons/dist/CuriousCommons.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
